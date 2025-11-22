@@ -6,11 +6,14 @@ This repo is created on Nov 22, 2025 by JW Eken.
 
 In a terminal say something like:
 
-> mkdir abc  
+```C#
+> mkdir abc
 > cd abc  
 > code Readme.md  
 
 
 After this initialize the repo in Source Control and then Publish the repo.
+```
 
 
+[Start Info](<private/Readme.md>)
