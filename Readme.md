@@ -14,4 +14,4 @@ In a terminal say something like:
 After this initialize the repo in Source Control and then Publish the repo.
 
 ```
-[Start Info](<private/Readme.md>)
+[Start Info](./private/StartInfo.md)

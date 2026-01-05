@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/private/">
+    <File Path="private/StartInfo.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="Readme.md" />
+  </Folder>
+</Solution>
