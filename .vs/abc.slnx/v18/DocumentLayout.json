@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\dev\\abc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|Solution Items{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|C:\\dev\\abc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|Solution Items{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\dev\\abc\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DF34376-7352-4F9D-A886-AC585DA7110D}|NewFolder1{1DF34376-7352-4F9D-A886-AC585DA7110D}|C:\\dev\\abc\\private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{1DF34376-7352-4F9D-A886-AC585DA7110D}|NewFolder1{1DF34376-7352-4F9D-A886-AC585DA7110D}|solutionrelative:private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\dev\\abc\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|Solution Items{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|C:\\dev\\abc\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|Solution Items{E8525B74-FF33-4EA2-AFC8-C34402426D8B}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|private{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|C:\\dev\\abc\\private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|private{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|solutionrelative:private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\dev\\abc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|private{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|C:\\dev\\abc\\private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview",
+      "RelativeMoniker": "D:0:0:{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|private{9C5465B7-2582-946B-F0F3-C7DB9A30B1F9}|solutionrelative:private\\StartInfo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -82,55 +90,111 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "StartInfo.md [Preview]",
+              "DocumentMoniker": "C:\\dev\\abc\\private\\StartInfo.md",
+              "RelativeDocumentMoniker": "private\\StartInfo.md",
+              "ToolTip": "C:\\dev\\abc\\private\\StartInfo.md [Preview]",
+              "RelativeToolTip": "private\\StartInfo.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-09T05:35:49.818Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md [Preview]",
+              "DocumentMoniker": "C:\\dev\\abc\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\dev\\abc\\Readme.md [Preview]",
+              "RelativeToolTip": "Readme.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-09T05:30:41.7Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\dev\\abc\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\dev\\abc\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-01-05T17:58:55.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartInfo.md",
               "DocumentMoniker": "C:\\dev\\abc\\private\\StartInfo.md",
               "RelativeDocumentMoniker": "private\\StartInfo.md",
               "ToolTip": "C:\\dev\\abc\\private\\StartInfo.md",
               "RelativeToolTip": "private\\StartInfo.md",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-05T17:31:07.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\dev\\abc\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
               "ToolTip": "C:\\dev\\abc\\Readme.md",
               "RelativeToolTip": "Readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-05T17:29:10.332Z",
               "EditorCaption": ""
